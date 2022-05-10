@@ -1,0 +1,10 @@
+{
+  "name": "wpstagingsite",
+  "license": "GPL-3.0-only",
+  "description": "Local site for developing the WP File Manager Solid Plugin",
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}

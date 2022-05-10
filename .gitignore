@@ -1,0 +1,7 @@
+nbproject
+.idea/
+node_modules
+.vscode
+var
+# Project exclude paths
+/docker/
